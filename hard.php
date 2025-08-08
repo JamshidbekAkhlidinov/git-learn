@@ -1,2 +1,2 @@
 <?php
-echo "new file this is";
+echo "new file";
