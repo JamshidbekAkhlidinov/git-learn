@@ -16,10 +16,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Cherry-picking in back",
+    "node.js.selected.package.tslint": "(autodetect)"
+>>>>>>> parent of 1b0c1a9 (for revert)
   }
 }</component>
   <component name="TaskManager">
