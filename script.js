@@ -1,1 +1,1 @@
-alert("Werlcome to my app")
+alert("welcome to my app")
